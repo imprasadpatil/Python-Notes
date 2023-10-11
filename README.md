@@ -1,7 +1,8 @@
 # Python-Notes
 Python Programming Lecture Notes.
 
-Notes Link: https://1drv.ms/b/s!AnXkbtEEfj3XhhOeUd0teanXTyEb?e=xWHWZO
+Direct Link : 
+[Python Programming Lecture *PDF* Notes](https://1drv.ms/b/s!AnXkbtEEfj3XhhoWUcI4SBrn5rWy?e=Q3cjzh)
 
 Python Programming Table of Contents.
 
