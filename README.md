@@ -2,7 +2,10 @@
 Python Programming Lecture Notes.
 
 Direct Link : 
-[Python Programming Lecture *PDF* Notes](https://1drv.ms/b/s!AnXkbtEEfj3XhhoWUcI4SBrn5rWy?e=Q3cjzh)
+
+* [Python Programming Lecture *PDF* Notes](https://1drv.ms/b/s!AnXkbtEEfj3XhhoWUcI4SBrn5rWy?e=Q3cjzh)
+
+* [Question Bank](https://1drv.ms/b/s!AnXkbtEEfj3XhhuQgSWjR8jiixkv?e=tU2vpl)
 
 Python Programming Table of Contents.
 | UNIT  | TOPIC |
